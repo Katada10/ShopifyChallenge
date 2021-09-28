@@ -6,6 +6,8 @@ The user chooses files on the main page, then adds them. The app will upload the
 
 Use the file picker choose the images you want to add, then press "Add Images". This will take you to a new page where any images you add, as well as any images added by someone else will show. 
 
+If you just want to view images, then add "/view" to the URL from the main page (http://localhost:5000/view)
+
 HOW TO RUN
 
 -- This app requires flask and firebase. See instructions below on how to install --
