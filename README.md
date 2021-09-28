@@ -2,7 +2,7 @@ OVERVIEW & USE INSTRUCTIONS
 
 This is an app which uses Flask, a Python framework, and Firebase to allow a user to add images to a repository.
 
-The user chooses files on the main page, then adds them. The app will upload the images to the ImageKit Content Delivery Network, and will store their uploaded URL's in a Firebase Real Time Database. The user is then redirected to another page which displays the image by retreiving all the URL's from Firebase and loading them into an HTML <img> element. This was intended to be a global image repository, meaning all users can see what any user uploads. 
+The user chooses files on the main page, then adds them. The app will upload the images to the ImageKit Content Delivery Network, and will store their uploaded URL's in a Firebase Real Time Database. The user is then redirected to another page which displays the images by retreiving all the URL's from Firebase and loading them into an HTML <img> element. This was intended to be a global image repository, meaning all users can see what any user uploads. 
 
 Use the file picker choose the images you want to add, then press "Add Images". This will take you to a new page where any images you add, as well as any images added by someone else will show. 
 
