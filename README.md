@@ -17,7 +17,7 @@ HOW TO RUN
 
 INSTALLING FIREBASE AND FLASK
 
-* This assumes your system already has Python 3.x installed *
+* This assumes your system already has Python 3.x installed. If not, head over to https://www.python.org/downloads/ and install it first.
  
 1 - Open a command prompt and type "pip install Flask"
 2 - Next, type "pip3 install firebase_admin"
